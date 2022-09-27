@@ -11,3 +11,8 @@ Fast-campus 강의를 바탕으로 정리한 자료입니다.
 ## 개발환경
 
 > 해당 개발 환경은 window의 wsl2를 기반으로 작성되었습니다.
+
+## 참고 사항
+
+> 내용 정리 및 참고 사항은 wiki를 참조하여 주세요.   
+> https://github.com/LeeHunUk/EDU_AWS/wiki
